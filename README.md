@@ -34,7 +34,7 @@
   <img src="./apresentacaoweb.gif" alt="Apresentação do Ecoleta Web" with="715" height="425">
 </div>
 
-# 📄 Indice
+## 📄 Indice
 
 - [Sobre](#-sobre)
 - [Tecnologias](#-tecnologias)
