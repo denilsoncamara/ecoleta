@@ -4,12 +4,12 @@
   </p>
   
   <p align="center">
-    ♻ Seu marketplace de coleta de resíduos.
+    Seu marketplace de coleta de resíduos.
   </p>
 </h1>
 
 <p align="center">
-  Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.
+  ♻ Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <div align="center">
-  <img src="./apresentacaoweb.gif" alt="Apresentação do Ecoleta Web" height="425">
+  <img src="./apresentacaoweb.gif" alt="Apresentação do Ecoleta Web" with="715" height="425">
   <img src="./apresentacaomobile.gif" alt="Apresentação do Ecoleta Mobile" height="425">
 </div>
 
