@@ -32,7 +32,6 @@
 
 <div align="center">
   <img src="./apresentacaoweb.gif" alt="Apresentação do Ecoleta Web" with="715" height="425">
-  <img src="./apresentacaomobile.gif" alt="Apresentação do Ecoleta Mobile" height="425">
 </div>
 
 # 📄 Indice
